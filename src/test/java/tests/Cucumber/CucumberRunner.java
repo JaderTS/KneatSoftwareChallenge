@@ -1,4 +1,4 @@
-package com;
+package tests.Cucumber;
 
 import com.buildSettings.TestEnvironment;
 import io.cucumber.testng.*;

@@ -6,7 +6,7 @@ Java Development Kit (JDK) installed, minimum required version is 14.
 
 **Design Pattern:** Page Object Model with loadable components<sub><sup>(POC)</sub></sup> & AAA  
 **Following tools were used in this framework:**  
-Java 14, Selenium, TestNG, Cucumber, Gradle, SeleniumGrid, WebDriverManager, BrowserStack
+Java 14, Selenium, TestNG, allure-results, Cucumber, Gradle, SeleniumGrid, WebDriverManager, BrowserStack
 
 ## ABOUT PROJECT
 Project made for Kneat in QA Sr. challenge.  
