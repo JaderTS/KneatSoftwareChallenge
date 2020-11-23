@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="booking.com WEB" thread-count="4" parallel="classes">
+    <listeners>
+        <listener class-name="com.buildListeners.TestNGAnnotationTransformer"/>
+    </listeners>
+    <test name="Automated tests for WEB client" group-by-instances="false" preserve-order="false" enabled="true">
+        <classes>
+            <class name="tests.WebAPP.SearchBox_Tests"/>
+        </classes>
+    </test>
+</suite>
