@@ -1,5 +1,5 @@
 # KneatSoftwareChallenge/Jader-Cunha
-This is a challenge for the QA Sr. position at Kneat.
+This is a QA project.
 
 ## Requirements
 Java Development Kit (JDK) installed, minimum required version is 14.
